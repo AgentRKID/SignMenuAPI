@@ -1,0 +1,5 @@
+name: SignMenuAPI
+version: ${git.commit.id.abbrev}
+author: AgentRKID
+main: io.github.agentrkid.signmenuapi.SignMenuAPI
+depend: [ProtocolLib]
